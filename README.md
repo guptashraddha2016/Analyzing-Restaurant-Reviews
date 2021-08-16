@@ -1,5 +1,5 @@
 # Analyzing-Restaurant-Reviews
-Sentiment/Opinion Analysis or Customer Feedback.
+Sentiment/Opinion Analysis of Customer Feedback.
 
 # File Description
   1. Analyzing Restaurant Reviews (jupyter Notebook)
