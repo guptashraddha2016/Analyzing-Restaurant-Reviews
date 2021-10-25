@@ -2,7 +2,7 @@
 Sentiment/Opinion Analysis of Customer Feedback.
 
 # File Description
-  1. Analyzing Restaurant Reviews (jupyter Notebook)
+  1. Analyzing Restaurant Reviews (Jupyter Notebook)
   2. Restaurant Review Dataset
   3. README File
   
